@@ -1,1 +1,1 @@
-Hello Everyone
+User-friendly Weather Forecast Web Application.
